@@ -13,9 +13,11 @@ I'm always on the lookout to connect with like-minded individuals who share my p
 
 Feel free to reach out to me for discussions on coding, music, video editing, graphic design, or anything in between. Let's build a vibrant network of professionals who thrive on creativity and innovation! ✌🏻
 
+
 Skills: 
 -------
 Python, C, HTML, CSS
+
 
 Currently Working on: 
 --
