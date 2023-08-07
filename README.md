@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hello World 👋
 
 About Me 👀:
-
+------------
 Hey friend,
 I'm a tech enthusiast and I love Coding. I want to go deep in Artificial Intelligence. Till date, coding has been a very helpful thing for me as it opens my logical thinking in a way nothing else has 😌
 
@@ -13,9 +13,13 @@ I'm always on the lookout to connect with like-minded individuals who share my p
 
 Feel free to reach out to me for discussions on coding, music, video editing, graphic design, or anything in between. Let's build a vibrant network of professionals who thrive on creativity and innovation! ✌🏻
 
-Skills: Python, C, HTML, CSS
+Skills: 
+-------
+Python, C, HTML, CSS
 
-Currently Working on: Data Structure and Algorithms 😮‍💨
+Currently Working on: 
+--
+Data Structure and Algorithms 😮‍💨
 <!--
 **MrGliff/MrGliff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
