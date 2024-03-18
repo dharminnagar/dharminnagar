@@ -16,7 +16,7 @@ Feel free to reach out to me for discussions on coding, music, video editing, gr
 
 Skills: 
 -------
-Python, C, HTML, CSS
+Python, C++, Java, HTML, CSS, JavaScript, React
 
 
 Currently Working on: 
