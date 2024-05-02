@@ -16,12 +16,12 @@ Feel free to reach out to me for discussions on coding, music, video editing, gr
 
 Skills: 
 -------
-Python, C++, Java, HTML, CSS, JavaScript, React
+Python, C++, Java, HTML, CSS, JavaScript, React, Data Structures and Algorithms
 
 
 Currently Working on: 
 --
-Data Structure and Algorithms 😮‍💨
+DevOps ⚙️
 <!--
 **MrGliff/MrGliff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
