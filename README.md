@@ -3,7 +3,7 @@
 About Me 👀:
 ------------
 Hey friend,
-I'm a tech enthusiast and I love Coding. I want to go deep in Artificial Intelligence. Till date, coding has been a very helpful thing for me as it opens my logical thinking in a way nothing else has 😌
+I'm a tech enthusiast and I love Coding. I want to go explore DevOps and Open Source. Till date, coding has been a very helpful thing for me as it opens my logical thinking in a way nothing else has 😌
 
 Apart from coding, I also love music very much. I play the Piano and can sing very well, although due to my introvert characteristics, I have not participated much. I do have a Youtube Channel, feel free to check out 😄
 
