@@ -21,7 +21,7 @@ Python, C++, Java, HTML, CSS, JavaScript, React, Data Structures and Algorithms
 
 Currently Working on: 
 --
-DevOps ⚙️
+web3 and Smart Contract Development ⚙️
 
 <!-- <p align="center"> -->
 <!--   <samp> -->
