@@ -17,6 +17,7 @@ const aboutDharmin = () => {
         "Web3": ["Solidity", "Foundry", "OpenZeppelin", "Smart Contract Development", "Basics of Solana"],
         "Others": ["Data Structure and Algorithms"]
     ],
+
     currentlyWorkingOn: ["Solana Development", "Advanced Web2"],
     
     socials: {
