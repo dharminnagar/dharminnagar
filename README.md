@@ -10,10 +10,10 @@ const aboutDharmin = () => {
         "Piano Player",
         "Singer"
     ],
-    description: "I am 19 years old and I enjoy Coding. I know Solidity, Foundry and interested in Web3.
+    description: `I am 19 years old and I enjoy Coding. I know Solidity, Foundry and interested in Web3.
         Apart from coding, I also love music very much. I sing and play the Piano. I love to do Video Editing in my free time.
         I'm always on the lookout to connect with like-minded individuals who share my passion for technology, music, and creativity.
-        Let's collaborate, exchange ideas, and grow together in this ever-evolving digital landscape.",
+        Let's collaborate, exchange ideas, and grow together in this ever-evolving digital landscape.`,
     
     skills: [
         "Web2": ["TypeScript", "React", "Nextjs", "Expressjs", "Postgres", "Prisma", "MongoDB", "TailwindCSS"],
