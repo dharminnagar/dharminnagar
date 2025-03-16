@@ -1,7 +1,7 @@
 ```typescript
 const aboutDharmin = () => {
     name: "Dharmin Nagar",
-    age: 19,
+    age: 19 y/o,
     pronouns: "he" | "him",
     synopsis: [
         "Tech Enthusiast",
@@ -10,10 +10,12 @@ const aboutDharmin = () => {
         "Piano Player",
         "Singer"
     ],
-    description: `I am 19 years old and I enjoy Coding. I know Solidity, Foundry and interested in Web3.
-        Apart from coding, I also love music very much. I sing and play the Piano. I love to do Video Editing in my free time.
-        I'm always on the lookout to connect with like-minded individuals who share my passion for technology, music, and creativity.
-        Let's collaborate, exchange ideas, and grow together in this ever-evolving digital landscape.`,
+    description: `I’m a 19-year-old developer who loves building cool things. My major interest is in web3 but
+        I’m comfortable with full-stack development too!
+        But hey, it’s not all code! When I’m not buried in tech—I sing and play the piano whenever I get the chance.
+        I also mess around with video editing in my free time, bringing ideas to life through visuals.
+        Always looking to connect with fellow degens, builders, and creatives—whether it’s brainstorming the
+        next big thing, sharing alpha, or just vibing over ideas, let’s make something awesome together!`,
     
     skills: [
         "Web2": ["TypeScript", "React", "Nextjs", "Expressjs", "Postgres", "Prisma", "MongoDB", "TailwindCSS"],
