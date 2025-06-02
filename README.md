@@ -10,7 +10,7 @@ const aboutDharmin = () => {
         "Piano Player",
         "Singer"
     ],
-    description: `I’m a 19-year-old developer who loves building cool things. My major interest is in web3 but
+    description: `I’m a 19-year-old developer who loves building cool things. My major interest is in web3 and
         I’m comfortable with full-stack development too!
         But hey, it’s not all code! When I’m not buried in tech—I sing and play the piano whenever I get the chance.
         I also mess around with video editing in my free time, bringing ideas to life through visuals.
@@ -19,7 +19,7 @@ const aboutDharmin = () => {
     
     skills: [
         "Web2": ["TypeScript", "React", "Nextjs", "Expressjs", "Postgres", "Prisma", "MongoDB", "TailwindCSS"],
-        "Web3": ["Solidity", "Foundry", "OpenZeppelin", "Smart Contract Development", "Basics of Solana"],
+        "Web3": ["Solidity", "Foundry", "OpenZeppelin", "Smart Contract Development", "Solana", "Basics of Rust"],
         "Others": ["Data Structure and Algorithms"]
     ],
 
