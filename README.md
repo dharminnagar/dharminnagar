@@ -1,7 +1,7 @@
 ```typescript
 const aboutDharmin = () => {
     name: "Dharmin Nagar",
-    age: 19 y/o,
+    age: 20 y/o,
     pronouns: "he" | "him",
     synopsis: [
         "Tech Enthusiast",
