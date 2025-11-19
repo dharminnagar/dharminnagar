@@ -4,7 +4,7 @@ const aboutDharmin = () => {
     age: 20 y/o,
     pronouns: "he" | "him",
     synopsis: [
-        "Tech Enthusiast",
+        "Backend",
         "Web3 Developer",
         "Web2 Developer",
         "Piano Player",
