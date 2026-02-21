@@ -23,7 +23,7 @@ const aboutDharmin = () => {
         "Others": ["Data Structure and Algorithms"]
     ],
 
-    currentlyWorkingOn: ["Rust Smart Contract Development", "Anchor Framework", "Advanced Web2"],
+    currentlyWorkingOn: ["System Architecture", "DevOps", "Rust Smart Contract Development", "Advanced Web2"],
     
     socials: {
         linkedin: "https://linkedin.com/in/nagardharmin",
